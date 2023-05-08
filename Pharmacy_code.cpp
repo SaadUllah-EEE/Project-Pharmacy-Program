@@ -101,7 +101,7 @@ int main()
     {
     int status;
     cout<<"\nWelcome!!\n";
-    cout<<"PLease enter your status: \n1) Customer\n2) Pharmacist\n3) Exit Program";
+    cout<<"PLease enter your status: \n1) Customer\n2) Pharmacist\n3) Exit Program"<<endl;
     cin>>status;
     if(status==1)
     {
